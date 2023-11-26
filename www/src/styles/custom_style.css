@@ -1,0 +1,11 @@
+:root {
+	--main-bg-color: #fff;
+	--main-text-color: #222;
+	--main-accent-color: rgb(22, 93, 255);
+}
+
+:root[data-theme="Dark"] {
+	--main-bg-color: #222;
+	--main-text-color: #fff;
+	--main-accent-color: rgb(48, 111, 255);
+}
